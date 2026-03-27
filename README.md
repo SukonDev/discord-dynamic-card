@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/discord-dynamic-card-rs.svg)](https://www.npmjs.com/package/discord-dynamic-card-rs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/YOUR_USERNAME/discord-dynamic-card-rs/workflows/CI/badge.svg)](https://github.com/YOUR_USERNAME/discord-dynamic-card-rs/actions)
+[![Build Status](https://github.com/SukonDev/discord-dynamic-card/workflows/CI/badge.svg)](https://github.com/YOUR_USERNAME/discord-dynamic-card-rs/actions)
 
 A blazing-fast, Rust-powered dynamic image generator for Node.js. Designed specifically for Discord Bots to render high-quality Roleplay character cards, Welcome banners, and Game HUDs in milliseconds.
 
